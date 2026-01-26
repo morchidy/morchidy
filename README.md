@@ -7,7 +7,6 @@ This GitHub contains technical projects, labs, and research prototypes focused o
 - Machine learning for threat detection  
 - Systems, protocols, and low-level implementations  
 
-The repositories here are primarily academic, experimental, or research-oriented.
 
 ---
 
@@ -64,11 +63,6 @@ Some representative repositories:
 
 ---
 
-##  Notes
-
-- Projects may be **prototypes**, **experiments**, or **academic exercises**
-- Code prioritizes **clarity and correctness** over production hardening
-- Some repositories are intentionally minimal to highlight core ideas
 
 ---
 
