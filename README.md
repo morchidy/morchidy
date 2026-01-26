@@ -5,8 +5,7 @@ This GitHub contains technical projects, labs, and research prototypes focused o
 - Cybersecurity & security engineering  
 - Applied cryptography and cryptanalysis  
 - Machine learning for threat detection  
-- Systems, protocols, and low-level implementations  
-
+- Systems, protocols, and low-level implementations
 
 ---
 
@@ -60,9 +59,6 @@ Some representative repositories:
 
 - **MNIST Neural Network**  
   Neural network implemented from scratch for educational purposes.
-
----
-
 
 ---
 
