@@ -47,7 +47,10 @@ Some representative repositories:
 
 - **DNS-TXT-Threat-Intelligence**  
   ML-based detection of malicious domains using DNS TXT records.
-
+  
+- **AI-Based-IDS-for-ICS**  
+  Real-time AI-based intrusion detection system designed specifically for Industrial Control Systems (ICS).
+  
 - **Pollard-Kangaroo-DLOG**  
   C implementation of Pollard’s Kangaroo algorithm for discrete logarithms.
 
@@ -57,8 +60,6 @@ Some representative repositories:
 - **Merkle-Damgård Second Preimage Attack**  
   Practical exploration of structural weaknesses in hash constructions.
 
-- **MNIST Neural Network**  
-  Neural network implemented from scratch for educational purposes.
 
 ---
 
